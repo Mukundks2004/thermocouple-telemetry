@@ -1,4 +1,5 @@
-build/*
+thermocouple-telemetry/build/*
+build.ninja
 
 # Object files
 *.o
