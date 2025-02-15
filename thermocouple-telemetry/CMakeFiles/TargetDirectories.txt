@@ -1,0 +1,5 @@
+C:/Users/sri_s/Documents/thermocouple-telemetry/thermocouple-telemetry/CMakeFiles/thermocouple-telemetry.dir
+C:/Users/sri_s/Documents/thermocouple-telemetry/thermocouple-telemetry/CMakeFiles/edit_cache.dir
+C:/Users/sri_s/Documents/thermocouple-telemetry/thermocouple-telemetry/CMakeFiles/rebuild_cache.dir
+C:/Users/sri_s/Documents/thermocouple-telemetry/thermocouple-telemetry/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+C:/Users/sri_s/Documents/thermocouple-telemetry/thermocouple-telemetry/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
