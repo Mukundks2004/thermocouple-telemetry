@@ -76,6 +76,7 @@ int main(void)
   HAL_Init();
 
   // test hi mukund
+  // lol
 
   /* USER CODE BEGIN Init */
 

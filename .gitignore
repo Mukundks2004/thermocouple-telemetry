@@ -1,4 +1,4 @@
-thermocouple-telemetry/build/*
+build/*
 
 # Object files
 *.o
