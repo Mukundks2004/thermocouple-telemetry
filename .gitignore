@@ -1,3 +1,5 @@
+thermocouple-telemetry/build/*
+
 # Object files
 *.o
 *.ko
